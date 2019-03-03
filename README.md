@@ -10,6 +10,7 @@ Simple B-Tree implementation of single Database table
  Read and write the B Tree structure in a file.
 
 Use following command for compiling
+
 gcc dbIndent.c -lm
 
 Ignore the warnings if any
